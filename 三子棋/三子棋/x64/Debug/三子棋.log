@@ -1,0 +1,3 @@
+﻿  game.c
+F:\代码\C\三子棋\三子棋\game.c(166): warning C4715: “Is_win”: 不是所有的控件路径都返回值
+  三子棋.vcxproj -> F:\代码\C\三子棋\x64\Debug\三子棋.exe
